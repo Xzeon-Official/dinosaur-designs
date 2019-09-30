@@ -8,7 +8,7 @@ img {
   width: 100%;
 }
 
-h1, h2, h2 {
+h1, h2, h3 {
   font-family: 'Patua One', sans-serif;
   color: #5d8432;
   text-transform: uppercase;
@@ -31,7 +31,7 @@ nav ol {
 }
 
 nav a {
-  color: #b42885;
+  color: #793284;
   text-decoration: none;
 }
 
