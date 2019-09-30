@@ -9,7 +9,7 @@ img {
 }
 
 h1, h2, h2 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One';
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -23,6 +23,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+}
 
 nav ol {
   list-style-type: none;
